@@ -1,0 +1,21 @@
+# ninja log v7
+4	433	7959810945218768	array_autogen/timestamp	967e62757fdcd69a
+4	433	7959810945218768	array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+4	433	7959810945218768	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/timestamp	967e62757fdcd69a
+4	433	7959810945218768	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+437	2067	7959810945608730	CMakeFiles/array.dir/main.cpp.obj	18ef5062d3ae1f46
+436	2456	7959810945598678	CMakeFiles/array.dir/array_autogen/mocs_compilation.cpp.obj	e7d24b949729ed99
+438	2485	7959810945618729	CMakeFiles/array.dir/array.cpp.obj	d140ca87b767f394
+2485	2615	7959810966090735	array.exe	3a464534d9fe5ff6
+7	83	7959814103393269	array_autogen/timestamp	967e62757fdcd69a
+7	83	7959814103393269	array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+7	83	7959814103393269	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/timestamp	967e62757fdcd69a
+7	83	7959814103393269	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+83	1620	7959814104142400	CMakeFiles/array.dir/array.cpp.obj	d140ca87b767f394
+1620	1773	7959814119510235	array.exe	3a464534d9fe5ff6
+8	191	7959815960094304	array_autogen/timestamp	967e62757fdcd69a
+8	191	7959815960094304	array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+8	191	7959815960094304	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/timestamp	967e62757fdcd69a
+8	191	7959815960094304	C:/Users/powolluma/Documents/Coding/Qt/array/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/array_autogen/mocs_compilation.cpp	967e62757fdcd69a
+192	1820	7959815961935124	CMakeFiles/array.dir/array.cpp.obj	d140ca87b767f394
+1820	1974	7959815978204330	array.exe	3a464534d9fe5ff6
