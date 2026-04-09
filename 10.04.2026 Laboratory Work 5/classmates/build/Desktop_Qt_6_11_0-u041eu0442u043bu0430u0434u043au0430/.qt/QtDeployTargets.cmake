@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_classmates_FILE /home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/classmates)
+set(__QT_DEPLOY_TARGET_classmates_TYPE EXECUTABLE)
