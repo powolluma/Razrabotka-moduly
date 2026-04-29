@@ -1,0 +1,9 @@
+# ninja log v7
+3	43	1777474685895275370	calculator_autogen/timestamp	aef6b42ae236a04b
+3	43	1777474685895275370	calculator_autogen/mocs_compilation.cpp	aef6b42ae236a04b
+3	43	1777474685895275370	/home/powolluma/Документы/Qt/calculator/build/Desktop-u041eu0442u043bu0430u0434u043au0430/calculator_autogen/timestamp	aef6b42ae236a04b
+3	43	1777474685895275370	/home/powolluma/Документы/Qt/calculator/build/Desktop-u041eu0442u043bu0430u0434u043au0430/calculator_autogen/mocs_compilation.cpp	aef6b42ae236a04b
+225	1351	1777474513580089040	CMakeFiles/calculator.dir/main.cpp.o	9a4080107d2c4d50
+43	1206	1777474685935275811	CMakeFiles/calculator.dir/mainwindow.cpp.o	261e61c697a8623f
+225	1750	1777474513579374711	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o	1ad2cc82a05b096f
+1206	1413	1777474687098288639	calculator	d9a075e938e99a26
