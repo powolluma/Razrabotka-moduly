@@ -1,0 +1,8 @@
+# ninja log v7
+2	224	1779259612444143950	untitled_autogen/timestamp	bcf3e10193973fc4
+2	224	1779259612444143950	untitled_autogen/mocs_compilation.cpp	bcf3e10193973fc4
+2	224	1779259612444143950	/home/powolluma/Документы/qt-project/untitled/build/Desktop-Debug/untitled_autogen/timestamp	bcf3e10193973fc4
+2	224	1779259612444143950	/home/powolluma/Документы/qt-project/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	bcf3e10193973fc4
+225	1324	1779259612456303443	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	b6b188bccfc1693f
+225	1456	1779259612456998317	CMakeFiles/untitled.dir/mainwindow.cpp.o	c4d7afd0ff723dc8
+225	1713	1779259612456897209	CMakeFiles/untitled.dir/main.cpp.o	4948095c25043709
