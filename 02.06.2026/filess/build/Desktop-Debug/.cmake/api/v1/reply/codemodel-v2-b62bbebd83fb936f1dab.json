@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0bc933eebbd059cc7f89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "filess",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "filess::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filess-Debug-6a889919df38a7b77a45.json",
+					"name" : "filess",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filess_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filess_autogen-Debug-6efac9e3267473d6cc48.json",
+					"name" : "filess_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filess_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filess_autogen_timestamp_deps-Debug-b46d130d0a5e0bb3292d.json",
+					"name" : "filess_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/powolluma/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/filess/build/Desktop-Debug",
+		"source" : "/home/powolluma/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/filess"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
