@@ -1,0 +1,3 @@
+C:\Games\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Uspevaemosty.dir/objects.a
+C:\Games\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Uspevaemosty.dir/objects.a @CMakeFiles\Uspevaemosty.dir\objects1.rsp
+C:\Games\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Uspevaemosty.dir/objects.a -Wl,--no-whole-archive -o Uspevaemosty.exe -Wl,--out-implib,libUspevaemosty.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Uspevaemosty.dir\linkLibs.rsp

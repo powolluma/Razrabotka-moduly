@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Uspevaemosty_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Uspevaemosty_autogen.dir/ParseCache.txt"
+  "Uspevaemosty_autogen"
+  "CMakeFiles/Uspevaemosty.dir/Uspevaemosty_autogen/EWIEGA46WW/qrc_resources.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/Uspevaemosty_autogen/EWIEGA46WW/qrc_resources.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/Uspevaemosty_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/Uspevaemosty_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/averagewindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/averagewindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/forgotpasswordwindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/forgotpasswordwindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/gradeswindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/gradeswindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/loginwindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/loginwindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/main.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/main.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/parentmainwindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/parentmainwindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/parentmessageswindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/parentmessageswindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/quartergradeswindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/quartergradeswindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/schedulewindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/schedulewindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/studentmainwindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/studentmainwindow.cpp.obj.d"
+  "CMakeFiles/Uspevaemosty.dir/teachermainwindow.cpp.obj"
+  "CMakeFiles/Uspevaemosty.dir/teachermainwindow.cpp.obj.d"
+  "Uspevaemosty.exe"
+  "Uspevaemosty.exe.manifest"
+  "Uspevaemosty.pdb"
+  "Uspevaemosty_autogen/EWIEGA46WW/qrc_resources.cpp"
+  "Uspevaemosty_autogen/mocs_compilation.cpp"
+  "Uspevaemosty_autogen/timestamp"
+  "libUspevaemosty.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Uspevaemosty.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
